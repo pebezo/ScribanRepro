@@ -1,4 +1,4 @@
-This is sample project that tries to reproduce an issue that came up while upgrading Scriban from version 1.2.2 to 5.0
+This is a sample project that tries to reproduce an issue that came up while upgrading Scriban from version 1.2.2 to 5.0
 
 Version 1.2.2
 
